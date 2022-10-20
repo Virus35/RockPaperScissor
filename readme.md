@@ -26,7 +26,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
   👉 4. Managing Objects, Handling Event Listeners. <br>
   👉 5. Loops and conditionals. <br>
 
-### Time Taken to Complete this Project:- 2 Hours
+### Time Taken to Complete this Project:- 1.5 Hours
 
 ### 📬 Connect With Me
 
