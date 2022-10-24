@@ -1,4 +1,4 @@
-## 🔗Rock Paper Scissors Game
+## 🔗 Rock Paper Scissors Game
 [https://vishal-rock-paper-scissors.netlify.app/](https://vishal-rock-paper-scissors.netlify.app/)
 
 
